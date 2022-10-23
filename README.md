@@ -12,10 +12,9 @@
  
  <br>
 
+Minha relação com a tecnologia começou na adolescência.
 
-Desenvolvedor Full Stack e apaixonado em aprender sobre tecnologia.
-
-Antes da programação, atuei nos ramos automotivo e logístico, e procuro aplicar seus princípios na minha atividade atual. Procuro escrever códigos organizados, para que sejam de fácil manutenção.
+Entretanto, antes da programação atuei nos ramos automotivo e logístico, e aplico seus princípios na minha atividade atual. Procuro escrever códigos organizados, para que sejam reutilizáveis e de fácil manutenção.
 
 Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente em ambientes com pessoas de diferentes culturas.
 
@@ -46,7 +45,6 @@ Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente e
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pvitor7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
 
 ## 📱   Redes Sociais
