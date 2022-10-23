@@ -1,8 +1,23 @@
-<h1 align="left">Bem-vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Paulo Vitor!</h1>
+<h1 align="left"> <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" height="60px"> Bem-vindo, eu sou o Paulo Vitor!</h1>
 
 - 👨‍💻 Desenvolvedor Web Fullstack
 - 🌱 Apaixonado por aprender coisas novas
-- ⚽ Talento do futebol sem mídia ⚡ 😜 
+- ⚽ Talento do futebol não descoberto ⚡ 😂
+
+
+
+ <br>
+ 
+ ## 👨🏿‍💻 &nbsp;Sobre mim
+ 
+ <br>
+
+
+Desenvolvedor Full Stack e apaixonado em aprender sobre tecnologia.
+
+Antes da programação, atuei nos ramos automotivo e logístico, e procuro aplicar seus princípios na minha atividade atual. Procuro escrever códigos organizados, para que sejam de fácil manutenção.
+
+Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente em ambientes com pessoas de diferentes culturas.
 
 
  <br>
@@ -24,7 +39,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-
 
 <p>
 <a href="https://github.com/pvitor7">
