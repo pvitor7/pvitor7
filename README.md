@@ -8,19 +8,6 @@
 
  <br>
  
- ## 👨🏿‍💻 &nbsp;Sobre mim
- 
- <br>
-
-Minha relação com a tecnologia começou na adolescência.
-
-Porém, antes da programação atuei nos ramos automotivo e logístico, e aplico seus princípios na minha atividade atual. Procuro escrever códigos organizados, para que sejam reutilizáveis e de fácil manutenção.
-
-Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente em ambientes com pessoas de diferentes culturas.
-
-
- <br>
- 
  ## 🛠 &nbsp;Tecnologias
  
  <br>
@@ -47,6 +34,22 @@ Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente e
 </p>
 
 
+
+ <br>
+ 
+ ## 👨🏿‍💻 &nbsp;Sobre mim
+ 
+ <br>
+
+Minha relação com a tecnologia começou na adolescência.
+
+Porém, antes da programação atuei nos ramos automotivo e logístico, e aplico seus princípios na minha atividade atual. Procuro escrever códigos organizados, para que sejam reutilizáveis e de fácil manutenção.
+
+Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente em ambientes com pessoas de diferentes culturas.
+
+
+ <br>
+ 
 ## 📱   Redes Sociais
  <br>
 
