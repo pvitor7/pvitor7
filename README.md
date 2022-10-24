@@ -52,16 +52,14 @@ Tenho facilidade em me comunicar, gosto de trabalhar em equipe e especialmente e
 
 <p align="left" style="background:blue">
  
-<a href="https://www.linkedin.com/in/paulovtobias/" >
-  <img align="center" src="https://img.shields.io/badge/Paulo%20Vitor-100000?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/paulovtobias/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Paulo_Vitor-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
- 
-<a href="https://www.instagram.com/pv7.92/" target="_blank"  rel="external" >
- <img align="center" src="https://img.shields.io/badge/-Paulo_Vitor-100000?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
-</a> 
- 
- <br>
+<a href="https://www.instagram.com/pv7.92/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Paulo_Vitor-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
 
+<br>
 
 
 <!--
