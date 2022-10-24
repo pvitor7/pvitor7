@@ -1,6 +1,6 @@
 <h1 align="left">Bem-vindo, eu sou o Paulo Vitor! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.gif" height="30px"> </h1>
 
-- 👨‍💻 Desenvolvedor Web Fullstack
+- 👨🏿‍💻 Desenvolvedor Web Fullstack
 - 🌱 Apaixonado por aprender coisas novas
 - ⚽ Talento do futebol não descoberto ⚡ 😂
 
